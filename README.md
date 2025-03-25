@@ -1,4 +1,5 @@
 # Attacking-and-Defending-AWS
+Gained hands-on experience with common security weaknesses around the most commonly used AWS services and covered mitigations to help in securing these services.
 Key Learnings 🧠
 1. IAM Permissions and Credentials 🔑
 Long-term Credentials: Created via the AWS Console or AWS CLI using commands like aws iam create-access-key.
